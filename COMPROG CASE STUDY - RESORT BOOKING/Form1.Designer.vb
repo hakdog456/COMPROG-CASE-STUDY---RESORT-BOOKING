@@ -65,12 +65,12 @@ Partial Class Form1
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 16.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(197, 294)
+        Me.Label4.Location = New System.Drawing.Point(424, 331)
         Me.Label4.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(200, 26)
+        Me.Label4.Size = New System.Drawing.Size(165, 26)
         Me.Label4.TabIndex = 3
-        Me.Label4.Text = "Sample -Mennard"
+        Me.Label4.Text = "Sample - Lock"
         '
         'Form1
         '
